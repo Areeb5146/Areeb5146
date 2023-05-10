@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Areeb5146
 - 👀 I’m interested in coding
-- 🌱 I’m currently react js
+- 🌱 I’m full stack developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me iareebafzal1122@gmail.com
 
