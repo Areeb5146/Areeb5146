@@ -5,6 +5,7 @@
 - 📫 How to reach me iareebafzal1122@gmail.com
 - 💼 My personal portfolio: https://areebafzal-portfolio.netlify.app/
 - 🌐 A personal e-commerce website build on React JS: https://areeb-gpu.netlify.app/
+- 🌐 Consultancy website: https://sample-consultancy.netlify.app/
 - 🌐 Social media website: https://explore-gram.vercel.app/
 
 <!---
